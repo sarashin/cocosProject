@@ -6,7 +6,8 @@
 
 namespace saraApp
 {
-	/**@bref アプリケーションクラス
+	/**
+		@bref アプリケーションクラス
 	*/
 	class MyApp :private cocos2d::Application
 	{
